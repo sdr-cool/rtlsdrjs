@@ -1,6 +1,6 @@
 {
-  "name": "rtlsdrjs",
-  "version": "0.0.0",
+  "name": "@sdr.cool/rtlsdrjs",
+  "version": "0.1.0",
   "description": "Turn your Realtek RTL2832U based device into an SDR receiver using JavaScript",
   "main": "index.js",
   "directories": {
